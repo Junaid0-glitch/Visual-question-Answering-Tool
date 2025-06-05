@@ -1,4 +1,5 @@
 
+
 # 🧠🔍 Visual Question Answering Tool
 
 A simple and powerful web app built with **Streamlit** that lets you ask questions about images using a transformer-based **Visual-Language model (ViLT)**. Powered by Hugging Face and `dandelin/vilt-b32-finetuned-vqa`.
@@ -29,9 +30,8 @@ Upload an image and type a question — for example:
 
 | Upload Image | Ask Question | Get Answer |
 |--------------|---------------|-------------|
-| ![screenshot](https://user-images.githubusercontent.com/placeholder/upload.png) | ![screenshot](https://user-images.githubusercontent.com/placeholder/question.png) | ![screenshot](https://user-images.githubusercontent.com/placeholder/answer.png) |
-
-*(Replace with your own screenshots if you like)*
+| ![Screenshot 2025-06-06 005209](https://github.com/user-attachments/assets/63e01885-1bb6-4670-a554-8ca6d454ba71)![Screenshot 2025-06-06 005223](https://github.com/user-attachments/assets/12f15c5c-6cf9-410a-8cbe-155553be0c74)
+ |  ![Screenshot 2025-06-06 005234](https://github.com/user-attachments/assets/fe9f4265-4c9c-42ea-81b9-2bb40aaee056)
 
 ---
 
