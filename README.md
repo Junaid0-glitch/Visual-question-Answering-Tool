@@ -105,22 +105,3 @@ Task: Visual Question Answering (VQA)
 
 ---
 
-## 📄 License
-
-MIT License — use it freely and responsibly.
-
----
-
-## 🙌 Credits
-
-- Hugging Face for model + Transformers  
-- Streamlit for the frontend  
-- ViLT: Vision-and-Language Transformer ([paper](https://arxiv.org/abs/2102.03334))
-
----
-
-## 💡 Future Work
-
-- Hugging Face Spaces deployment  
-- Answer explanation/visualization  
-- Mobile UI improvements
