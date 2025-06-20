@@ -1,5 +1,5 @@
 streamlit
-transformers
+transformers>=4.38.0
 torch
 torchvision
 Pillow
