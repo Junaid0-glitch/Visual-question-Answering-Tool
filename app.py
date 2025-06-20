@@ -7,16 +7,14 @@ from dotenv import load_dotenv
 import os
 
 load_dotenv()
-token = os.getenv("HUGGINGFACE_TOKEN")
 
-if not token:
-    raise ValueError("HUGGINGFACE_TOKEN not found in environment")
-
-
+hf_token = st.secrets["HUGGINGFACE_TOKEN"]
 st.set_page_config(layout="wide", page_title="VQA")
 
-processor = ViltProcessor.from_pretrained("dandelin/vilt-b32-finetuned-vqa", use_auth_token=token)
-model = ViltForQuestionAnswering.from_pretrained("dandelin/vilt-b32-finetuned-vqa", use_auth_token=token)
+
+
+processor = ViltProcessor.from_pretrained("dandelin/vilt-b32-finetuned-vqa", token=hf_token)
+model = ViltForQuestionAnswering.from_pretrained("dandelin/vilt-b32-finetuned-vqa", token=hf_token)
 
 def get_answer(image, text):
     try:
