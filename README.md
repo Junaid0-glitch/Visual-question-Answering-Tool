@@ -7,7 +7,7 @@ A simple and powerful web app built with **Streamlit** that lets you ask questio
 
 ## 🚀 Live Demo
 
-👉 [Click here to try the live app](https://visual-question-answering-tool-nqgxlgtnatvsqikcqjmkzk.streamlit.app/)
+👉 [Click here to try the live app](https://visual-question-answering-tool-fgf38kh3m3l8n5yea4oq9l.streamlit.app/)
 
 ---
 
@@ -23,9 +23,10 @@ A simple and powerful web app built with **Streamlit** that lets you ask questio
 
 ## 📸 Screenshots
 
-| Upload & Ask | Answer |
-|--------------|--------|
-| ![Screenshot 2025-06-06 005209](https://github.com/user-attachments/assets/63e01885-1bb6-4670-a554-8ca6d454ba71) ![Screenshot 2025-06-06 005223](https://github.com/user-attachments/assets/12f15c5c-6cf9-410a-8cbe-155553be0c74) | ![Screenshot 2025-06-06 005234](https://github.com/user-attachments/assets/fe9f4265-4c9c-42ea-81b9-2bb40aaee056) |
+| Upload & Ask |
+|--------------|
+![Screenshot 2025-06-20 172440](https://github.com/user-attachments/assets/0d5bc396-40cc-46a6-b628-59a0b932c9f5)
+
 
 ---
 
